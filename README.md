@@ -5,7 +5,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/Status-Private_Project-red?style=for-the-badge&logo=github)](https://github.com/)
 
-> **PlanMatik**, modern yaşamın hızında görevlerinizi, hedeflerinizi, geri sayımlarınızı ve zengin notlarınızı tek bir estetik merkezde buluşturan üst düzey mobil odaklı bir üretkenlik & organizasyon platformudur.
+> **PlanMatik**, modern yaşamın hızında görevlerinizi, hedeflerinizi, geri sayımlarınızı ve zengin notlarınızı tek bir estetik merkezde buluşturan üst düzey mobil odaklı bir üretkenlik & organizasyon platformudur. Kaynak kodları Github üzerinden priveta olarak yayınlanmıştır.
 
 ---
 
